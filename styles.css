@@ -1,0 +1,42 @@
+body {
+  background-color: #f8f1f1;
+}
+
+hr {
+  background-color: none;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 3%;
+}
+
+h1 {
+  align-self: center;
+  color: #822659;
+}
+
+h3 {
+  align-self: center;
+  color: #822659;
+}
+
+P {
+  align-self: center;
+  color: #b34180;
+}
+
+li {
+  align-self: center;
+  color: #b34180;
+}
+
+th {
+  align-self: center;
+  color: #822659;
+}
+
+td {
+  align-self: center;
+  color: #b34180;
+}
